@@ -1,6 +1,7 @@
 # Zapoctovy-program---Ludo
 Hra človeče pre 4 hráčov
-•	spustí sa pri normálnom spustení programu 
+•	spustí sa pri normálnom spustení programu
+•	používa len základné balíčky Pythonu, TkInter a Random
 •	poradie hráčov je modrý a ďalej v smere hodinových ručičiek
 •	vždy na kliknutie sa hodí kockou, v prípade, že hráč nemá čo urobiť sa ďalším kliknutím hodí kocka ďalšiemu hráčovi, inak ostane daný hod na kocke, kým hráč nepohne nejakým panáčikom 
 •	panáčikovia sa posúvajú klávesmi (a, q = 1; b, w = 2; c, e = 3; d, r = 4)
